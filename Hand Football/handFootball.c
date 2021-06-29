@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "football.h"
+#include "handFootball.h"
 
 int main(){
     int x;
