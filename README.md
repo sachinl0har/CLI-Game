@@ -1,3 +1,2 @@
-# Hand-Game
+# CLI-Games
 
-© copyright All Rights Reserved
